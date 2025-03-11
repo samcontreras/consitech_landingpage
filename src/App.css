@@ -1,18 +1,112 @@
-@media screen and (max-width: 400px) {
-  #features {
-    padding: 20px;
-    width: 111%;
+/* Responsive Design with Mobile-First Approach */
+:root {
+  --container-max-width: 1170px;
+  --gutter: 15px;
+}
+
+/* Base Styles */
+.container {
+  width: 100%;
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 calc(-1 * var(--gutter));
+}
+
+.col-md-4 {
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding: 0 var(--gutter);
+  box-sizing: border-box;
+}
+
+/* Mobile First Sections */
+#features,
+#about,
+#services,
+#portfolio,
+#testimonials,
+#team,
+#contact,
+#footer {
+  padding: 30px 10px;
+}
+
+#about img {
+  width: 100%;
+  margin: 30px 0;
+}
+
+#services .col-md-4 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Tablet */
+@media screen and (min-width: 577px) {
+  .container {
+    max-width: 750px;
   }
-  #about,
-  #services,
-  #testimonials,
-  #team,
-  #contact,
-  #footer {
-    width: 111%;
+}
+
+/* Desktop */
+@media screen and (min-width: 769px) {
+  .container {
+    max-width: 970px;
   }
 
-  #portfolio {
-    width: 110%;
+  .col-md-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  #features,
+  #about,
+  #services,
+  #portfolio,
+  #testimonials,
+  #team,
+  #contact {
+    padding: 60px 0;
+  }
+
+  #about img {
+    width: 450px;
+    margin-top: 10px;
+  }
+}
+
+/* Large Desktop */
+@media screen and (min-width: 993px) {
+  .container {
+    max-width: var(--container-max-width);
+  }
+
+  .col-md-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+
+  #about img {
+    width: 520px;
+  }
+
+  #services .col-md-4 {
+    width: 33.33%;
+    float: left;
+    padding: 0 var(--gutter);
+  }
+}
+
+/* Extra Large Desktop */
+@media screen and (min-width: 1201px) {
+  .container {
+    max-width: calc(var(--container-max-width) + 30px);
   }
 }

@@ -5,10 +5,9 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
+          <h2>Conoce a Nuestro Equipo</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Tenemos varios años de experiencia en el sector y no tememos ir más allá de los métodos estándar, para perfeccionar soluciones a sus necesidades de gestión de información y mejoramiento de los procesos internos de su organización.
           </p>
         </div>
         <div id="row">

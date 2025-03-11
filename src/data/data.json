@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "TRANSFORMAMOS TUS IDEAS EN PROYECTOS REALES",
+    "paragraph": "Más de 15 años optimizando empresas a través de soluciones tecnológicas integrales y servicios gestionados."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Somos una Pyme especializada en Soluciones Integrales de Sistemas y Tecnología. Nuestra misión es transformar los desafíos empresariales en oportunidades de crecimiento a través de la innovación tecnológica. Trabajamos en estrecha colaboración con nuestros clientes para desarrollar soluciones personalizadas que optimizan procesos y crean ventajas competitivas duraderas.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Innovamos en cada solución",
+      "Optimizamos procesos clave",
+      "Garantizamos resultados",
+      "Soporte técnico 24/7"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Alianzas tecnológicas sólidas",
+      "15 años de experiencia",
+      "Soluciones a medida",
+      "Excelencia garantizada"
     ]
   },
   "Gallery": [
@@ -48,113 +48,98 @@
       "title": "Project Title",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Desarrollo Web",
+      "text": "Creamos sitios web y aplicaciones empresariales personalizadas, optimizadas para el rendimiento y la experiencia del usuario, asegurando una presencia digital efectiva para su negocio."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "E-commerce Solutions",
+      "text": "Implementamos plataformas de comercio electrónico robustas y seguras, integradas con sus sistemas existentes para maximizar sus ventas online y mejorar la experiencia de compra."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Housing & Cloud Computing",
+      "text": "Ofrecemos soluciones tanto Onpremise como en la nube, que se adaptan a las necesidades de cada cliente, optimizan sus recursos IT, mejoran la seguridad y garantizan la continuidad de su negocio con infraestructuras escalables y flexibles."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Servicios Gestionados",
+      "text": "Proporcionamos servicios de gestión integral de IT, incluyendo monitoreo proactivo, mantenimiento preventivo y soporte técnico continuo para mantener sus sistemas funcionando óptimamente."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Transformación Digital",
+      "text": "Guiamos a su empresa en el proceso de transformación digital, implementando soluciones innovadoras que mejoran la eficiencia operativa y potencian el crecimiento del negocio."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Business Intelligence",
+      "text": "Desarrollamos soluciones de análisis de datos y reportes empresariales que le permiten tomar decisiones informadas basadas en información precisa y actualizada."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"El equipo de Consitech transformó completamente nuestros procesos de negocio. Su solución personalizada nos ayudó a reducir costos operativos y mejorar la eficiencia en todas las áreas.\"",
+      "name": "Carlos Rodríguez - Director de Operaciones"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"La implementación del sistema de gestión desarrollado por Consitech superó nuestras expectativas. Su equipo demostró un alto nivel de profesionalismo y compromiso.\"",
+      "name": "María González - Gerente de IT"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Gracias a las soluciones cloud implementadas por Consitech, pudimos modernizar nuestra infraestructura y mejorar significativamente la seguridad de nuestros datos.\"",
+      "name": "Diego Martínez - CTO"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"El servicio de soporte técnico de Consitech es excepcional. Siempre están disponibles y resuelven nuestros problemas de manera rápida y eficiente.\"",
+      "name": "Laura Sánchez - Gerente de Proyectos"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"La plataforma e-commerce desarrollada por Consitech nos permitió expandir nuestro negocio al mercado digital con excelentes resultados.\"",
+      "name": "Alejandro López - E-commerce Manager"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"La solución de Business Intelligence implementada nos proporcionó insights valiosos para la toma de decisiones estratégicas.\"",
+      "name": "Patricia Fernández - CEO"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Gonzalo Maidana",
+      "job": "Director & CEO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Gonzalo Alvarez",
+      "job": "Jefe Devops"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/03.jpeg",
+      "name": "Samuel Contreras",
+      "job": "Jefe de Infraestrucutura & Sistemas"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Melina Acosta",
+      "job": "Jefe De Marketing & Comercial"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Balvanera , Caba - Argentina, CP1215 ",
+    "phone": "+54 11 3599 1387",
+    "email": "info@consitech.com.ar",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +147,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Soporte Dedicado",
+      "text": "Asistencia técnica personalizada y respuesta inmediata para garantizar la continuidad de sus operaciones tecnológicas."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Innovación Constante",
+      "text": "Implementamos las últimas tecnologías y mejores prácticas para mantener su empresa a la vanguardia del mercado."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Equipo Experto",
+      "text": "Profesionales certificados con amplia experiencia en desarrollo e implementación de soluciones tecnológicas empresariales."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Soluciones a Medida",
+      "text": "Desarrollamos e implementamos soluciones personalizadas que se adaptan perfectamente a las necesidades específicas de su negocio."
     }
   ]
 }

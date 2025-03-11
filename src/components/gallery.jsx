@@ -6,11 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+          <h2>Galeria</h2>
+          <p>Descubra nuestra trayectoria a través de nuestra galería de proyectos. Cada imagen cuenta la historia de una transformación digital exitosa:</p>
+          <p>Cada proyecto en nuestra galería representa un caso de éxito donde la tecnología se convierte en una ventaja competitiva real para nuestros clientes.</p>
         </div>
         <div className="row">
           <div className="portfolio-items">
